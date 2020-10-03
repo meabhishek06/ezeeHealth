@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617010529590",
+    "firebase_url": "https://ezeehealth-de2c2.firebaseio.com",
+    "project_id": "ezeehealth-de2c2",
+    "storage_bucket": "ezeehealth-de2c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617010529590:android:578d22124bb7d22c2a9f97",
+        "android_client_info": {
+          "package_name": "com.abhi.ezeeheatlth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617010529590-amhhrqt2c7mh12920aaur0vge3lt2vfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVYKbijvdr0TMSgHcb3IP5GtfRHEFZw9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617010529590-amhhrqt2c7mh12920aaur0vge3lt2vfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
